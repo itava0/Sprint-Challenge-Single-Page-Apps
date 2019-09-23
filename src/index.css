@@ -66,3 +66,9 @@ button {
   display: inline-block;
   width: 200px;
 }
+
+.App {
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
